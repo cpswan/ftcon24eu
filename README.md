@@ -1,15 +1,15 @@
 # FlutterCon Europe 2024
 
-Thank you speakers for your great talks! Happy to receive your PR, please add & correct any info in the prepared talks/ folder, there should be your talk-title.json . All Markdown files will be generated via scripts triggered by GitHub Action.
 
-If you enjoy any other view of the data, you're very welcome to add your script as well :) The followings I have created so far:
+In Progress: Happy to receive your PR for missing information and fixing things :) 
 
 [Agenda](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md)
 
-Speakers [list](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md) and all [socials](https://github.com/martin-bertele/ftcon24eu/blob/main/Socials.md)
+[List of speakers](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md)
 
-Talks sorted by: [rooms](https://github.com/martin-bertele/ftcon24eu/blob/main/Rooms.md) | [formats](https://github.com/martin-bertele/ftcon24eu/blob/main/Formats.md)
+[Talks sorted by rooms](https://github.com/martin-bertele/ftcon24eu/blob/main/Rooms.md)
 
+[Talks sorted by formats](https://github.com/martin-bertele/ftcon24eu/blob/main/Formats.md)
 
 # Talks
 
@@ -82,7 +82,7 @@ Talks sorted by: [rooms](https://github.com/martin-bertele/ftcon24eu/blob/main/R
 | Relaunching DW's Connected TV Experience with Flutter | [Olav Schettler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#olav-schettler), [Daniel Vechtel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#daniel-vechtel) |  | []() |
 | Saving data before the app getting killed! Easy state restoration with Flutter | [Lucas Goldner](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lucas-goldner) | [Slides](https://state-restoration-presentation.vercel.app/#/speaker) | []() |
 | Self-host private pub packages | [Pascal Welsch](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pascal-welsch) | [Slides](https://docs.google.com/presentation/d/1xkCcJaEEECe_2MknAGSsMm1FLGlsga1ggXk4SGp7WAY/edit?usp=sharing) | []() |
-| Showing that you care about security - OpenSSF Scorecards for Dart and Flutter projects | [Chris Swan](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#chris-swan) |  | []() |
+| Showing that you care about security - OpenSSF Scorecards for Dart and Flutter projects | [Chris Swan](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#chris-swan) | [Slides](https://www.slideshare.net/slideshow/fluttercon-2024-showing-that-you-care-about-security-openssf-scorecards-for-dart-and-flutter-projects/270042965), [Blog](https://blog.thestateofme.com/2022/12/02/implementing-ossf-scorecards-across-a-github-organisation/) | [OpenSSF Scorecard](https://scorecard.dev/)<br>[Supply-chain Levels for Software Artifacts](https://slsa.dev/)<br>[Step Security](https://www.stepsecurity.io/) |
 | Simplify Design Systems and Designer/Developer Collaboration with Widgetbook | [Lucas Josefiak](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lucas-josefiak) |  | []() |
 | Software correctness | [Marcin Wojnarowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marcin-wojnarowski) |  | []() |
 | Testing that your app is accessible to all | [Alexander Troshkov](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alexander-troshkov) |  | []() |

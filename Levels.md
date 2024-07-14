@@ -22,6 +22,7 @@
 
 | Title | Speakers | Resources | Recommendations |
 | ----- | -------- | --------- | --------------- |
+| Showing that you care about security - OpenSSF Scorecards for Dart and Flutter projects | [Chris Swan](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#chris-swan) | [Slides](https://www.slideshare.net/slideshow/fluttercon-2024-showing-that-you-care-about-security-openssf-scorecards-for-dart-and-flutter-projects/270042965), [Blog](https://blog.thestateofme.com/2022/12/02/implementing-ossf-scorecards-across-a-github-organisation/) | [OpenSSF Scorecard](https://scorecard.dev/)<br>[Supply-chain Levels for Software Artifacts](https://slsa.dev/)<br>[Step Security](https://www.stepsecurity.io/) |
 
 
 ## Expert
